@@ -6,4 +6,4 @@ Este repositório contém o código `LancadorPrioridade.java`, que explora o uso
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/GustavoBastos/SD-PrioridadeThreadsJava.git
+   git clone https://github.com/Bastos021/SD-PrioridadeThreadsJava.git
